@@ -1,7 +1,7 @@
 ## 深度学习入门(Deep Learning Onramp Using MATLAB)
 
 > 说明：利用MATLAB实现一些深度学习的项目，理解深度学习中的基础概念<br>
-> MATLAB Version: R2018b 
+> MATLAB Version: R2018b <br>
 > AlexNet: 一个已经训练好的神经网络
 
 ### 1.深度学习在图像识别中的应用
